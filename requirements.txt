@@ -1,0 +1,7 @@
+pip>=9
+setuptools>=26
+wheel>=0.29
+pandas
+numpy
+requests
+streamlit

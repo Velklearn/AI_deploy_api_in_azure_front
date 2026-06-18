@@ -325,7 +325,7 @@ Set your variables again (only the first line to edit), reusing the **same plan 
 
 ```bash
 # macOS / Linux / Git Bash
-FIRSTNAME=frederic            # ← the ONLY line to edit
+FIRSTNAME=kevin            # ← the ONLY line to edit
 RG=$FIRSTNAME
 PLAN=${FIRSTNAME}plan         # the SAME plan you created in Challenge 1
 UI_NAME=${FIRSTNAME}wineui    # the new Web App for the front-end
